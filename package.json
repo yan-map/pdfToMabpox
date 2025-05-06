@@ -1,0 +1,8 @@
+{
+  "name": "mapbox-pdf-layer",
+  "version": "1.0.0",
+  "description": "Добавление PDF-слоя в Mapbox GL JS",
+  "main": "pdfToMapbox.js",
+  "type": "module",
+  "license": "MIT"
+}
